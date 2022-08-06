@@ -1,6 +1,6 @@
 # Cipher 🔐
 
-Encrypt/Decrypt your files and folder with AES-256. Built with Rust 🦀 for security 🔐 and speed ⚡️.
+Encrypt/Decrypt your files and directories with AES-256. Built with Rust 🦀 for security 🔐 and speed ⚡️.
 
 ## Installation
 
