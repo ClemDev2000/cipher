@@ -37,7 +37,7 @@ Encrypt a directory:
 
 To encrypt a directory, `cipher` will always append `.tar.enc` at the end of the output (`-o`) option.
 
-To ensure the decryption is done correctly. **DO NOT** remove the `.tar.enc` extension.
+To ensure the decryption is done correctly **DO NOT** remove the `.tar.enc` extension.
 
 ## Build from source
 
